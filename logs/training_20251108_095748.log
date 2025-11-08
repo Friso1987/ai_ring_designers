@@ -1,0 +1,57 @@
+2025-11-08 09:57:48,261 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-11-08 09:57:48,262 - INFO - Starting training for 5 generations
+2025-11-08 09:57:48,262 - INFO - Device: cpu
+2025-11-08 09:57:48,262 - INFO - 
+============================================================
+2025-11-08 09:57:48,263 - INFO - Generation 1/5
+2025-11-08 09:57:48,263 - INFO - ============================================================
+2025-11-08 09:57:48,263 - INFO - Phase 1: Neural network generation
+2025-11-08 09:57:48,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2025-11-08 09:57:48,266 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-08 09:58:48,362 - ERROR - Rendering timeout after 60s
+2025-11-08 09:58:48,362 - ERROR - Error evaluating design 0: 'NoneType' object has no attribute 'is_watertight'
+2025-11-08 09:59:48,450 - ERROR - Rendering timeout after 60s
+2025-11-08 09:59:48,450 - ERROR - Error evaluating design 1: 'NoneType' object has no attribute 'is_watertight'
+2025-11-08 09:59:48,450 - INFO - 
+============================================================
+2025-11-08 09:59:48,450 - INFO - Generation 2/5
+2025-11-08 09:59:48,450 - INFO - ============================================================
+2025-11-08 09:59:48,450 - INFO - Phase 1: Neural network generation
+2025-11-08 10:00:48,538 - ERROR - Rendering timeout after 60s
+2025-11-08 10:00:48,538 - ERROR - Error evaluating design 0: 'NoneType' object has no attribute 'is_watertight'
+2025-11-08 10:01:48,625 - ERROR - Rendering timeout after 60s
+2025-11-08 10:01:48,625 - ERROR - Error evaluating design 1: 'NoneType' object has no attribute 'is_watertight'
+2025-11-08 10:01:48,625 - INFO - 
+============================================================
+2025-11-08 10:01:48,625 - INFO - Generation 3/5
+2025-11-08 10:01:48,625 - INFO - ============================================================
+2025-11-08 10:01:48,625 - INFO - Phase 1: Neural network generation
+2025-11-08 10:02:48,712 - ERROR - Rendering timeout after 60s
+2025-11-08 10:02:48,712 - ERROR - Error evaluating design 0: 'NoneType' object has no attribute 'is_watertight'
+2025-11-08 10:03:48,799 - ERROR - Rendering timeout after 60s
+2025-11-08 10:03:48,799 - ERROR - Error evaluating design 1: 'NoneType' object has no attribute 'is_watertight'
+2025-11-08 10:03:48,800 - INFO - 
+============================================================
+2025-11-08 10:03:48,800 - INFO - Generation 4/5
+2025-11-08 10:03:48,800 - INFO - ============================================================
+2025-11-08 10:03:48,800 - INFO - Phase 1: Neural network generation
+2025-11-08 10:04:48,888 - ERROR - Rendering timeout after 60s
+2025-11-08 10:04:48,888 - ERROR - Error evaluating design 0: 'NoneType' object has no attribute 'is_watertight'
+2025-11-08 10:05:48,980 - ERROR - Rendering timeout after 60s
+2025-11-08 10:05:48,980 - ERROR - Error evaluating design 1: 'NoneType' object has no attribute 'is_watertight'
+2025-11-08 10:05:48,980 - INFO - 
+============================================================
+2025-11-08 10:05:48,980 - INFO - Generation 5/5
+2025-11-08 10:05:48,980 - INFO - ============================================================
+2025-11-08 10:05:48,980 - INFO - Phase 1: Neural network generation
+2025-11-08 10:06:49,068 - ERROR - Rendering timeout after 60s
+2025-11-08 10:06:49,068 - ERROR - Error evaluating design 0: 'NoneType' object has no attribute 'is_watertight'
+2025-11-08 10:07:49,154 - ERROR - Rendering timeout after 60s
+2025-11-08 10:07:49,154 - ERROR - Error evaluating design 1: 'NoneType' object has no attribute 'is_watertight'
+2025-11-08 10:07:49,154 - INFO - 
+============================================================
+2025-11-08 10:07:49,154 - INFO - Training completed!
+2025-11-08 10:07:49,155 - INFO - Best score achieved: 0.000
+2025-11-08 10:07:49,155 - INFO - ============================================================

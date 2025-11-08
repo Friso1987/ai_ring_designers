@@ -1,0 +1,19 @@
+2025-11-08 10:19:35,548 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-11-08 10:19:35,549 - INFO - Starting training for 20 generations
+2025-11-08 10:19:35,549 - INFO - Device: cpu
+2025-11-08 10:19:35,549 - INFO - 
+============================================================
+2025-11-08 10:19:35,549 - INFO - Generation 1/20
+2025-11-08 10:19:35,549 - INFO - ============================================================
+2025-11-08 10:19:35,549 - INFO - Phase 1: Neural network generation
+2025-11-08 10:19:35,552 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2025-11-08 10:19:35,552 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-08 10:19:35,554 - INFO - Design 1/4: Score=0.949
+2025-11-08 10:19:35,554 - INFO - Design 2/4: Score=0.949
+2025-11-08 10:19:35,555 - INFO - Design 3/4: Score=0.954
+2025-11-08 10:19:35,556 - INFO - Design 4/4: Score=0.944
+2025-11-08 10:19:35,556 - INFO - Phase 3: Training neural networks
+2025-11-08 10:19:35,614 - INFO - 🎉 NEW BEST DESIGN! Score: 0.954
+2025-11-08 10:19:35,669 - INFO - Checkpoint saved: data/checkpoints/checkpoint_gen_0.pt

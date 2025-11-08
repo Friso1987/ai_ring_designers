@@ -1,0 +1,953 @@
+2025-11-08 09:54:51,680 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-11-08 09:54:51,681 - INFO - Starting training for 100 generations
+2025-11-08 09:54:51,681 - INFO - Device: cpu
+2025-11-08 09:54:51,681 - INFO - 
+============================================================
+2025-11-08 09:54:51,681 - INFO - Generation 1/100
+2025-11-08 09:54:51,681 - INFO - ============================================================
+2025-11-08 09:54:51,681 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,684 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2025-11-08 09:54:51,684 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-08 09:54:51,687 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,687 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,687 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,687 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,687 - INFO - 
+============================================================
+2025-11-08 09:54:51,687 - INFO - Generation 2/100
+2025-11-08 09:54:51,687 - INFO - ============================================================
+2025-11-08 09:54:51,687 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,688 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,688 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,688 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,688 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,689 - INFO - 
+============================================================
+2025-11-08 09:54:51,689 - INFO - Generation 3/100
+2025-11-08 09:54:51,689 - INFO - ============================================================
+2025-11-08 09:54:51,689 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,689 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,689 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,690 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,690 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,690 - INFO - 
+============================================================
+2025-11-08 09:54:51,690 - INFO - Generation 4/100
+2025-11-08 09:54:51,690 - INFO - ============================================================
+2025-11-08 09:54:51,690 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,691 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,691 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,691 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,691 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,691 - INFO - 
+============================================================
+2025-11-08 09:54:51,691 - INFO - Generation 5/100
+2025-11-08 09:54:51,691 - INFO - ============================================================
+2025-11-08 09:54:51,691 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,693 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,693 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,693 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,693 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,693 - INFO - 
+============================================================
+2025-11-08 09:54:51,693 - INFO - Generation 6/100
+2025-11-08 09:54:51,693 - INFO - ============================================================
+2025-11-08 09:54:51,693 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,695 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,695 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,695 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,695 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,695 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,695 - INFO - 
+============================================================
+2025-11-08 09:54:51,695 - INFO - Generation 7/100
+2025-11-08 09:54:51,695 - INFO - ============================================================
+2025-11-08 09:54:51,695 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,696 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,696 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,696 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,696 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,696 - INFO - 
+============================================================
+2025-11-08 09:54:51,696 - INFO - Generation 8/100
+2025-11-08 09:54:51,696 - INFO - ============================================================
+2025-11-08 09:54:51,696 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,697 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,697 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,697 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,697 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,697 - INFO - 
+============================================================
+2025-11-08 09:54:51,697 - INFO - Generation 9/100
+2025-11-08 09:54:51,697 - INFO - ============================================================
+2025-11-08 09:54:51,697 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,698 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,698 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,698 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,698 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,698 - INFO - 
+============================================================
+2025-11-08 09:54:51,698 - INFO - Generation 10/100
+2025-11-08 09:54:51,698 - INFO - ============================================================
+2025-11-08 09:54:51,698 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,699 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,699 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,699 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,699 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,700 - INFO - 
+Top 5 designs:
+2025-11-08 09:54:51,700 - INFO - 
+============================================================
+2025-11-08 09:54:51,700 - INFO - Generation 11/100
+2025-11-08 09:54:51,700 - INFO - ============================================================
+2025-11-08 09:54:51,700 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,700 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,701 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,701 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,701 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,701 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,701 - INFO - 
+============================================================
+2025-11-08 09:54:51,701 - INFO - Generation 12/100
+2025-11-08 09:54:51,701 - INFO - ============================================================
+2025-11-08 09:54:51,701 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,702 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,702 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,702 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,702 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,702 - INFO - 
+============================================================
+2025-11-08 09:54:51,702 - INFO - Generation 13/100
+2025-11-08 09:54:51,702 - INFO - ============================================================
+2025-11-08 09:54:51,702 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,703 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,703 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,703 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,703 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,703 - INFO - 
+============================================================
+2025-11-08 09:54:51,703 - INFO - Generation 14/100
+2025-11-08 09:54:51,703 - INFO - ============================================================
+2025-11-08 09:54:51,704 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,704 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,704 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,704 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,705 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,705 - INFO - 
+============================================================
+2025-11-08 09:54:51,705 - INFO - Generation 15/100
+2025-11-08 09:54:51,705 - INFO - ============================================================
+2025-11-08 09:54:51,705 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,705 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,706 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,706 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,706 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,706 - INFO - 
+============================================================
+2025-11-08 09:54:51,706 - INFO - Generation 16/100
+2025-11-08 09:54:51,706 - INFO - ============================================================
+2025-11-08 09:54:51,706 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,707 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,707 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,707 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,707 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,707 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,707 - INFO - 
+============================================================
+2025-11-08 09:54:51,707 - INFO - Generation 17/100
+2025-11-08 09:54:51,707 - INFO - ============================================================
+2025-11-08 09:54:51,707 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,708 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,708 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,708 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,708 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,708 - INFO - 
+============================================================
+2025-11-08 09:54:51,708 - INFO - Generation 18/100
+2025-11-08 09:54:51,708 - INFO - ============================================================
+2025-11-08 09:54:51,708 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,709 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,709 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,709 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,709 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,709 - INFO - 
+============================================================
+2025-11-08 09:54:51,709 - INFO - Generation 19/100
+2025-11-08 09:54:51,710 - INFO - ============================================================
+2025-11-08 09:54:51,710 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,710 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,710 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,710 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,711 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,711 - INFO - 
+============================================================
+2025-11-08 09:54:51,711 - INFO - Generation 20/100
+2025-11-08 09:54:51,711 - INFO - ============================================================
+2025-11-08 09:54:51,711 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,711 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,712 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,712 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,712 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,712 - INFO - 
+Top 5 designs:
+2025-11-08 09:54:51,712 - INFO - 
+============================================================
+2025-11-08 09:54:51,712 - INFO - Generation 21/100
+2025-11-08 09:54:51,712 - INFO - ============================================================
+2025-11-08 09:54:51,712 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,713 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,713 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,713 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,713 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,713 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,713 - INFO - 
+============================================================
+2025-11-08 09:54:51,713 - INFO - Generation 22/100
+2025-11-08 09:54:51,713 - INFO - ============================================================
+2025-11-08 09:54:51,713 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,714 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,714 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,714 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,714 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,714 - INFO - 
+============================================================
+2025-11-08 09:54:51,714 - INFO - Generation 23/100
+2025-11-08 09:54:51,714 - INFO - ============================================================
+2025-11-08 09:54:51,714 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,715 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,715 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,715 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,715 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,716 - INFO - 
+============================================================
+2025-11-08 09:54:51,716 - INFO - Generation 24/100
+2025-11-08 09:54:51,716 - INFO - ============================================================
+2025-11-08 09:54:51,716 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,716 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,717 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,717 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,717 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,717 - INFO - 
+============================================================
+2025-11-08 09:54:51,717 - INFO - Generation 25/100
+2025-11-08 09:54:51,717 - INFO - ============================================================
+2025-11-08 09:54:51,717 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,718 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,718 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,718 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,718 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,718 - INFO - 
+============================================================
+2025-11-08 09:54:51,718 - INFO - Generation 26/100
+2025-11-08 09:54:51,718 - INFO - ============================================================
+2025-11-08 09:54:51,718 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,719 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,719 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,719 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,719 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,719 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,719 - INFO - 
+============================================================
+2025-11-08 09:54:51,719 - INFO - Generation 27/100
+2025-11-08 09:54:51,719 - INFO - ============================================================
+2025-11-08 09:54:51,719 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,720 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,720 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,720 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,720 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,721 - INFO - 
+============================================================
+2025-11-08 09:54:51,721 - INFO - Generation 28/100
+2025-11-08 09:54:51,721 - INFO - ============================================================
+2025-11-08 09:54:51,721 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,722 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,722 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,722 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,722 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,722 - INFO - 
+============================================================
+2025-11-08 09:54:51,722 - INFO - Generation 29/100
+2025-11-08 09:54:51,722 - INFO - ============================================================
+2025-11-08 09:54:51,722 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,723 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,723 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,723 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,723 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,723 - INFO - 
+============================================================
+2025-11-08 09:54:51,723 - INFO - Generation 30/100
+2025-11-08 09:54:51,723 - INFO - ============================================================
+2025-11-08 09:54:51,723 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,724 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,724 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,724 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,724 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,724 - INFO - 
+Top 5 designs:
+2025-11-08 09:54:51,724 - INFO - 
+============================================================
+2025-11-08 09:54:51,724 - INFO - Generation 31/100
+2025-11-08 09:54:51,724 - INFO - ============================================================
+2025-11-08 09:54:51,724 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,725 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,725 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,725 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,725 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,725 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,726 - INFO - 
+============================================================
+2025-11-08 09:54:51,726 - INFO - Generation 32/100
+2025-11-08 09:54:51,726 - INFO - ============================================================
+2025-11-08 09:54:51,726 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,727 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,727 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,727 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,727 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,727 - INFO - 
+============================================================
+2025-11-08 09:54:51,727 - INFO - Generation 33/100
+2025-11-08 09:54:51,727 - INFO - ============================================================
+2025-11-08 09:54:51,727 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,728 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,728 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,728 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,728 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,728 - INFO - 
+============================================================
+2025-11-08 09:54:51,728 - INFO - Generation 34/100
+2025-11-08 09:54:51,728 - INFO - ============================================================
+2025-11-08 09:54:51,728 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,729 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,729 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,729 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,729 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,729 - INFO - 
+============================================================
+2025-11-08 09:54:51,729 - INFO - Generation 35/100
+2025-11-08 09:54:51,729 - INFO - ============================================================
+2025-11-08 09:54:51,729 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,730 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,730 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,730 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,730 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,730 - INFO - 
+============================================================
+2025-11-08 09:54:51,730 - INFO - Generation 36/100
+2025-11-08 09:54:51,730 - INFO - ============================================================
+2025-11-08 09:54:51,730 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,731 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,731 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,731 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,731 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,732 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,732 - INFO - 
+============================================================
+2025-11-08 09:54:51,732 - INFO - Generation 37/100
+2025-11-08 09:54:51,732 - INFO - ============================================================
+2025-11-08 09:54:51,732 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,733 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,733 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,733 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,733 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,733 - INFO - 
+============================================================
+2025-11-08 09:54:51,733 - INFO - Generation 38/100
+2025-11-08 09:54:51,733 - INFO - ============================================================
+2025-11-08 09:54:51,733 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,734 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,734 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,734 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,734 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,734 - INFO - 
+============================================================
+2025-11-08 09:54:51,734 - INFO - Generation 39/100
+2025-11-08 09:54:51,734 - INFO - ============================================================
+2025-11-08 09:54:51,734 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,735 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,735 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,735 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,735 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,735 - INFO - 
+============================================================
+2025-11-08 09:54:51,735 - INFO - Generation 40/100
+2025-11-08 09:54:51,735 - INFO - ============================================================
+2025-11-08 09:54:51,736 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,736 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,736 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,736 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,737 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,737 - INFO - 
+Top 5 designs:
+2025-11-08 09:54:51,737 - INFO - 
+============================================================
+2025-11-08 09:54:51,737 - INFO - Generation 41/100
+2025-11-08 09:54:51,737 - INFO - ============================================================
+2025-11-08 09:54:51,737 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,738 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,738 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,738 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,738 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,738 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,738 - INFO - 
+============================================================
+2025-11-08 09:54:51,738 - INFO - Generation 42/100
+2025-11-08 09:54:51,739 - INFO - ============================================================
+2025-11-08 09:54:51,739 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,739 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,740 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,740 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,740 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,740 - INFO - 
+============================================================
+2025-11-08 09:54:51,740 - INFO - Generation 43/100
+2025-11-08 09:54:51,740 - INFO - ============================================================
+2025-11-08 09:54:51,741 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,741 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,742 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,742 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,742 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,742 - INFO - 
+============================================================
+2025-11-08 09:54:51,742 - INFO - Generation 44/100
+2025-11-08 09:54:51,742 - INFO - ============================================================
+2025-11-08 09:54:51,742 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,743 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,743 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,743 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,744 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,744 - INFO - 
+============================================================
+2025-11-08 09:54:51,744 - INFO - Generation 45/100
+2025-11-08 09:54:51,744 - INFO - ============================================================
+2025-11-08 09:54:51,744 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,745 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,746 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,746 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,746 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,746 - INFO - 
+============================================================
+2025-11-08 09:54:51,746 - INFO - Generation 46/100
+2025-11-08 09:54:51,746 - INFO - ============================================================
+2025-11-08 09:54:51,746 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,747 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,747 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,747 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,748 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,748 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,748 - INFO - 
+============================================================
+2025-11-08 09:54:51,748 - INFO - Generation 47/100
+2025-11-08 09:54:51,748 - INFO - ============================================================
+2025-11-08 09:54:51,748 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,749 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,749 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,749 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,750 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,750 - INFO - 
+============================================================
+2025-11-08 09:54:51,750 - INFO - Generation 48/100
+2025-11-08 09:54:51,750 - INFO - ============================================================
+2025-11-08 09:54:51,750 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,751 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,751 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,751 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,752 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,752 - INFO - 
+============================================================
+2025-11-08 09:54:51,752 - INFO - Generation 49/100
+2025-11-08 09:54:51,752 - INFO - ============================================================
+2025-11-08 09:54:51,752 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,753 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,753 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,753 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,753 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,754 - INFO - 
+============================================================
+2025-11-08 09:54:51,754 - INFO - Generation 50/100
+2025-11-08 09:54:51,754 - INFO - ============================================================
+2025-11-08 09:54:51,754 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,755 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,755 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,755 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,755 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,755 - INFO - 
+Top 5 designs:
+2025-11-08 09:54:51,759 - INFO - Checkpoint saved: data/checkpoints/checkpoint_gen_49.pt
+2025-11-08 09:54:51,760 - INFO - 
+============================================================
+2025-11-08 09:54:51,760 - INFO - Generation 51/100
+2025-11-08 09:54:51,760 - INFO - ============================================================
+2025-11-08 09:54:51,760 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,761 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,761 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,761 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,762 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,762 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,762 - INFO - 
+============================================================
+2025-11-08 09:54:51,762 - INFO - Generation 52/100
+2025-11-08 09:54:51,762 - INFO - ============================================================
+2025-11-08 09:54:51,762 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,763 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,763 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,763 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,764 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,764 - INFO - 
+============================================================
+2025-11-08 09:54:51,764 - INFO - Generation 53/100
+2025-11-08 09:54:51,764 - INFO - ============================================================
+2025-11-08 09:54:51,764 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,765 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,765 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,765 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,765 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,766 - INFO - 
+============================================================
+2025-11-08 09:54:51,766 - INFO - Generation 54/100
+2025-11-08 09:54:51,766 - INFO - ============================================================
+2025-11-08 09:54:51,766 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,768 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,768 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,768 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,768 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,768 - INFO - 
+============================================================
+2025-11-08 09:54:51,769 - INFO - Generation 55/100
+2025-11-08 09:54:51,769 - INFO - ============================================================
+2025-11-08 09:54:51,769 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,770 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,770 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,770 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,770 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,770 - INFO - 
+============================================================
+2025-11-08 09:54:51,770 - INFO - Generation 56/100
+2025-11-08 09:54:51,771 - INFO - ============================================================
+2025-11-08 09:54:51,771 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,771 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,772 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,772 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,772 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,772 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,772 - INFO - 
+============================================================
+2025-11-08 09:54:51,772 - INFO - Generation 57/100
+2025-11-08 09:54:51,773 - INFO - ============================================================
+2025-11-08 09:54:51,773 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,773 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,774 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,774 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,774 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,774 - INFO - 
+============================================================
+2025-11-08 09:54:51,774 - INFO - Generation 58/100
+2025-11-08 09:54:51,774 - INFO - ============================================================
+2025-11-08 09:54:51,775 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,775 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,776 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,776 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,776 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,776 - INFO - 
+============================================================
+2025-11-08 09:54:51,776 - INFO - Generation 59/100
+2025-11-08 09:54:51,776 - INFO - ============================================================
+2025-11-08 09:54:51,776 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,777 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,777 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,778 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,778 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,778 - INFO - 
+============================================================
+2025-11-08 09:54:51,778 - INFO - Generation 60/100
+2025-11-08 09:54:51,778 - INFO - ============================================================
+2025-11-08 09:54:51,778 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,779 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,779 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,779 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,780 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,780 - INFO - 
+Top 5 designs:
+2025-11-08 09:54:51,780 - INFO - 
+============================================================
+2025-11-08 09:54:51,780 - INFO - Generation 61/100
+2025-11-08 09:54:51,780 - INFO - ============================================================
+2025-11-08 09:54:51,780 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,781 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,781 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,781 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,781 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,782 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,782 - INFO - 
+============================================================
+2025-11-08 09:54:51,782 - INFO - Generation 62/100
+2025-11-08 09:54:51,782 - INFO - ============================================================
+2025-11-08 09:54:51,782 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,783 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,783 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,783 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,783 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,784 - INFO - 
+============================================================
+2025-11-08 09:54:51,784 - INFO - Generation 63/100
+2025-11-08 09:54:51,784 - INFO - ============================================================
+2025-11-08 09:54:51,784 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,785 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,785 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,785 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,785 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,785 - INFO - 
+============================================================
+2025-11-08 09:54:51,785 - INFO - Generation 64/100
+2025-11-08 09:54:51,786 - INFO - ============================================================
+2025-11-08 09:54:51,786 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,787 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,787 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,787 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,787 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,787 - INFO - 
+============================================================
+2025-11-08 09:54:51,787 - INFO - Generation 65/100
+2025-11-08 09:54:51,787 - INFO - ============================================================
+2025-11-08 09:54:51,787 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,788 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,788 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,788 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,788 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,788 - INFO - 
+============================================================
+2025-11-08 09:54:51,788 - INFO - Generation 66/100
+2025-11-08 09:54:51,788 - INFO - ============================================================
+2025-11-08 09:54:51,788 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,789 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,789 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,789 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,789 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,789 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,789 - INFO - 
+============================================================
+2025-11-08 09:54:51,789 - INFO - Generation 67/100
+2025-11-08 09:54:51,789 - INFO - ============================================================
+2025-11-08 09:54:51,789 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,790 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,790 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,790 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,790 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,790 - INFO - 
+============================================================
+2025-11-08 09:54:51,791 - INFO - Generation 68/100
+2025-11-08 09:54:51,791 - INFO - ============================================================
+2025-11-08 09:54:51,791 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,791 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,791 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,792 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,792 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,792 - INFO - 
+============================================================
+2025-11-08 09:54:51,792 - INFO - Generation 69/100
+2025-11-08 09:54:51,792 - INFO - ============================================================
+2025-11-08 09:54:51,792 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,793 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,793 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,793 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,793 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,793 - INFO - 
+============================================================
+2025-11-08 09:54:51,793 - INFO - Generation 70/100
+2025-11-08 09:54:51,793 - INFO - ============================================================
+2025-11-08 09:54:51,793 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,794 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,794 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,794 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,795 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,795 - INFO - 
+Top 5 designs:
+2025-11-08 09:54:51,795 - INFO - 
+============================================================
+2025-11-08 09:54:51,795 - INFO - Generation 71/100
+2025-11-08 09:54:51,795 - INFO - ============================================================
+2025-11-08 09:54:51,795 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,797 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,797 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,797 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,798 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,798 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,798 - INFO - 
+============================================================
+2025-11-08 09:54:51,798 - INFO - Generation 72/100
+2025-11-08 09:54:51,798 - INFO - ============================================================
+2025-11-08 09:54:51,798 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,799 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,800 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,800 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,800 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,800 - INFO - 
+============================================================
+2025-11-08 09:54:51,801 - INFO - Generation 73/100
+2025-11-08 09:54:51,801 - INFO - ============================================================
+2025-11-08 09:54:51,801 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,802 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,806 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,806 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,806 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,806 - INFO - 
+============================================================
+2025-11-08 09:54:51,807 - INFO - Generation 74/100
+2025-11-08 09:54:51,807 - INFO - ============================================================
+2025-11-08 09:54:51,807 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,807 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,808 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,808 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,808 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,808 - INFO - 
+============================================================
+2025-11-08 09:54:51,808 - INFO - Generation 75/100
+2025-11-08 09:54:51,808 - INFO - ============================================================
+2025-11-08 09:54:51,808 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,809 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,809 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,809 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,809 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,809 - INFO - 
+============================================================
+2025-11-08 09:54:51,809 - INFO - Generation 76/100
+2025-11-08 09:54:51,810 - INFO - ============================================================
+2025-11-08 09:54:51,810 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,811 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,814 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,814 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,815 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,815 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,815 - INFO - 
+============================================================
+2025-11-08 09:54:51,815 - INFO - Generation 77/100
+2025-11-08 09:54:51,815 - INFO - ============================================================
+2025-11-08 09:54:51,815 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,820 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,822 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,823 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,823 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,823 - INFO - 
+============================================================
+2025-11-08 09:54:51,823 - INFO - Generation 78/100
+2025-11-08 09:54:51,824 - INFO - ============================================================
+2025-11-08 09:54:51,824 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,825 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,825 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,826 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,826 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,826 - INFO - 
+============================================================
+2025-11-08 09:54:51,826 - INFO - Generation 79/100
+2025-11-08 09:54:51,827 - INFO - ============================================================
+2025-11-08 09:54:51,827 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,828 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,828 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,828 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,829 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,829 - INFO - 
+============================================================
+2025-11-08 09:54:51,829 - INFO - Generation 80/100
+2025-11-08 09:54:51,829 - INFO - ============================================================
+2025-11-08 09:54:51,829 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,830 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,831 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,831 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,831 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,832 - INFO - 
+Top 5 designs:
+2025-11-08 09:54:51,832 - INFO - 
+============================================================
+2025-11-08 09:54:51,832 - INFO - Generation 81/100
+2025-11-08 09:54:51,832 - INFO - ============================================================
+2025-11-08 09:54:51,833 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,834 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,834 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,834 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,834 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,835 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,835 - INFO - 
+============================================================
+2025-11-08 09:54:51,835 - INFO - Generation 82/100
+2025-11-08 09:54:51,835 - INFO - ============================================================
+2025-11-08 09:54:51,836 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,837 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,837 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,837 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,837 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,838 - INFO - 
+============================================================
+2025-11-08 09:54:51,838 - INFO - Generation 83/100
+2025-11-08 09:54:51,838 - INFO - ============================================================
+2025-11-08 09:54:51,838 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,839 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,839 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,839 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,839 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,839 - INFO - 
+============================================================
+2025-11-08 09:54:51,839 - INFO - Generation 84/100
+2025-11-08 09:54:51,839 - INFO - ============================================================
+2025-11-08 09:54:51,839 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,840 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,840 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,840 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,840 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,840 - INFO - 
+============================================================
+2025-11-08 09:54:51,840 - INFO - Generation 85/100
+2025-11-08 09:54:51,840 - INFO - ============================================================
+2025-11-08 09:54:51,840 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,841 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,841 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,841 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,841 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,841 - INFO - 
+============================================================
+2025-11-08 09:54:51,841 - INFO - Generation 86/100
+2025-11-08 09:54:51,842 - INFO - ============================================================
+2025-11-08 09:54:51,842 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,842 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,843 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,843 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,843 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,843 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,843 - INFO - 
+============================================================
+2025-11-08 09:54:51,843 - INFO - Generation 87/100
+2025-11-08 09:54:51,843 - INFO - ============================================================
+2025-11-08 09:54:51,843 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,844 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,844 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,844 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,844 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,844 - INFO - 
+============================================================
+2025-11-08 09:54:51,844 - INFO - Generation 88/100
+2025-11-08 09:54:51,844 - INFO - ============================================================
+2025-11-08 09:54:51,844 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,845 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,845 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,845 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,845 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,846 - INFO - 
+============================================================
+2025-11-08 09:54:51,846 - INFO - Generation 89/100
+2025-11-08 09:54:51,846 - INFO - ============================================================
+2025-11-08 09:54:51,846 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,847 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,847 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,847 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,847 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,847 - INFO - 
+============================================================
+2025-11-08 09:54:51,847 - INFO - Generation 90/100
+2025-11-08 09:54:51,848 - INFO - ============================================================
+2025-11-08 09:54:51,848 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,849 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,849 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,849 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,849 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,849 - INFO - 
+Top 5 designs:
+2025-11-08 09:54:51,849 - INFO - 
+============================================================
+2025-11-08 09:54:51,849 - INFO - Generation 91/100
+2025-11-08 09:54:51,849 - INFO - ============================================================
+2025-11-08 09:54:51,849 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,851 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,851 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,851 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,851 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,851 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,851 - INFO - 
+============================================================
+2025-11-08 09:54:51,851 - INFO - Generation 92/100
+2025-11-08 09:54:51,851 - INFO - ============================================================
+2025-11-08 09:54:51,851 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,852 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,853 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,853 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,853 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,853 - INFO - 
+============================================================
+2025-11-08 09:54:51,853 - INFO - Generation 93/100
+2025-11-08 09:54:51,853 - INFO - ============================================================
+2025-11-08 09:54:51,853 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,854 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,854 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,855 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,855 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,855 - INFO - 
+============================================================
+2025-11-08 09:54:51,855 - INFO - Generation 94/100
+2025-11-08 09:54:51,855 - INFO - ============================================================
+2025-11-08 09:54:51,855 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,856 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,856 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,856 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,856 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,856 - INFO - 
+============================================================
+2025-11-08 09:54:51,856 - INFO - Generation 95/100
+2025-11-08 09:54:51,857 - INFO - ============================================================
+2025-11-08 09:54:51,857 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,858 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,858 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,858 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,858 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,858 - INFO - 
+============================================================
+2025-11-08 09:54:51,858 - INFO - Generation 96/100
+2025-11-08 09:54:51,858 - INFO - ============================================================
+2025-11-08 09:54:51,858 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,859 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,860 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,860 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,860 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,860 - INFO - Phase 2: Evolutionary step
+2025-11-08 09:54:51,860 - INFO - 
+============================================================
+2025-11-08 09:54:51,860 - INFO - Generation 97/100
+2025-11-08 09:54:51,860 - INFO - ============================================================
+2025-11-08 09:54:51,860 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,861 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,861 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,861 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,862 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,862 - INFO - 
+============================================================
+2025-11-08 09:54:51,862 - INFO - Generation 98/100
+2025-11-08 09:54:51,862 - INFO - ============================================================
+2025-11-08 09:54:51,862 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,863 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,863 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,863 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,863 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,863 - INFO - 
+============================================================
+2025-11-08 09:54:51,864 - INFO - Generation 99/100
+2025-11-08 09:54:51,864 - INFO - ============================================================
+2025-11-08 09:54:51,864 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,865 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,865 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,865 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,865 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,865 - INFO - 
+============================================================
+2025-11-08 09:54:51,865 - INFO - Generation 100/100
+2025-11-08 09:54:51,865 - INFO - ============================================================
+2025-11-08 09:54:51,865 - INFO - Phase 1: Neural network generation
+2025-11-08 09:54:51,866 - ERROR - Error evaluating design 0: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,867 - ERROR - Error evaluating design 1: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,867 - ERROR - Error evaluating design 2: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,867 - ERROR - Error evaluating design 3: 'DesignParameters' object has no attribute 'lug_width'
+2025-11-08 09:54:51,867 - INFO - 
+Top 5 designs:
+2025-11-08 09:54:51,871 - INFO - Checkpoint saved: data/checkpoints/checkpoint_gen_99.pt
+2025-11-08 09:54:51,871 - INFO - 
+============================================================
+2025-11-08 09:54:51,871 - INFO - Training completed!
+2025-11-08 09:54:51,872 - INFO - Best score achieved: 0.000
+2025-11-08 09:54:51,872 - INFO - ============================================================

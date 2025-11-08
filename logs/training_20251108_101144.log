@@ -1,0 +1,199 @@
+2025-11-08 10:11:44,790 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-11-08 10:11:44,791 - INFO - Starting training for 20 generations
+2025-11-08 10:11:44,791 - INFO - Device: cpu
+2025-11-08 10:11:44,791 - INFO - 
+============================================================
+2025-11-08 10:11:44,791 - INFO - Generation 1/20
+2025-11-08 10:11:44,791 - INFO - ============================================================
+2025-11-08 10:11:44,791 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,793 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2025-11-08 10:11:44,793 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-08 10:11:44,794 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,795 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,795 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,795 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,795 - INFO - 
+============================================================
+2025-11-08 10:11:44,795 - INFO - Generation 2/20
+2025-11-08 10:11:44,795 - INFO - ============================================================
+2025-11-08 10:11:44,795 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,796 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,796 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,796 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,796 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,797 - INFO - 
+============================================================
+2025-11-08 10:11:44,797 - INFO - Generation 3/20
+2025-11-08 10:11:44,797 - INFO - ============================================================
+2025-11-08 10:11:44,797 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,797 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,798 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,798 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,798 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,798 - INFO - 
+============================================================
+2025-11-08 10:11:44,798 - INFO - Generation 4/20
+2025-11-08 10:11:44,798 - INFO - ============================================================
+2025-11-08 10:11:44,798 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,799 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,799 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,799 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,799 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,799 - INFO - 
+============================================================
+2025-11-08 10:11:44,800 - INFO - Generation 5/20
+2025-11-08 10:11:44,800 - INFO - ============================================================
+2025-11-08 10:11:44,800 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,801 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,801 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,801 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,801 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,801 - INFO - 
+============================================================
+2025-11-08 10:11:44,801 - INFO - Generation 6/20
+2025-11-08 10:11:44,801 - INFO - ============================================================
+2025-11-08 10:11:44,801 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,802 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,802 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,802 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,802 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,803 - INFO - Phase 2: Evolutionary step
+2025-11-08 10:11:44,803 - INFO - 
+============================================================
+2025-11-08 10:11:44,803 - INFO - Generation 7/20
+2025-11-08 10:11:44,803 - INFO - ============================================================
+2025-11-08 10:11:44,803 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,804 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,804 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,804 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,804 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,804 - INFO - 
+============================================================
+2025-11-08 10:11:44,804 - INFO - Generation 8/20
+2025-11-08 10:11:44,804 - INFO - ============================================================
+2025-11-08 10:11:44,804 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,805 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,805 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,805 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,805 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,806 - INFO - 
+============================================================
+2025-11-08 10:11:44,806 - INFO - Generation 9/20
+2025-11-08 10:11:44,806 - INFO - ============================================================
+2025-11-08 10:11:44,806 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,806 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,807 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,807 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,807 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,807 - INFO - 
+============================================================
+2025-11-08 10:11:44,807 - INFO - Generation 10/20
+2025-11-08 10:11:44,807 - INFO - ============================================================
+2025-11-08 10:11:44,807 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,808 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,808 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,808 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,808 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,808 - INFO - 
+Top 5 designs:
+2025-11-08 10:11:44,809 - INFO - 
+============================================================
+2025-11-08 10:11:44,809 - INFO - Generation 11/20
+2025-11-08 10:11:44,809 - INFO - ============================================================
+2025-11-08 10:11:44,809 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,809 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,810 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,810 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,810 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,810 - INFO - Phase 2: Evolutionary step
+2025-11-08 10:11:44,810 - INFO - 
+============================================================
+2025-11-08 10:11:44,810 - INFO - Generation 12/20
+2025-11-08 10:11:44,810 - INFO - ============================================================
+2025-11-08 10:11:44,810 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,811 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,811 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,811 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,811 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,811 - INFO - 
+============================================================
+2025-11-08 10:11:44,812 - INFO - Generation 13/20
+2025-11-08 10:11:44,812 - INFO - ============================================================
+2025-11-08 10:11:44,812 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,812 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,813 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,813 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,813 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,813 - INFO - 
+============================================================
+2025-11-08 10:11:44,813 - INFO - Generation 14/20
+2025-11-08 10:11:44,813 - INFO - ============================================================
+2025-11-08 10:11:44,813 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,814 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,814 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,814 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,814 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,814 - INFO - 
+============================================================
+2025-11-08 10:11:44,814 - INFO - Generation 15/20
+2025-11-08 10:11:44,814 - INFO - ============================================================
+2025-11-08 10:11:44,815 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,815 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,815 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,816 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,816 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,816 - INFO - 
+============================================================
+2025-11-08 10:11:44,816 - INFO - Generation 16/20
+2025-11-08 10:11:44,816 - INFO - ============================================================
+2025-11-08 10:11:44,816 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,817 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,817 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,817 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,817 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,817 - INFO - Phase 2: Evolutionary step
+2025-11-08 10:11:44,817 - INFO - 
+============================================================
+2025-11-08 10:11:44,817 - INFO - Generation 17/20
+2025-11-08 10:11:44,817 - INFO - ============================================================
+2025-11-08 10:11:44,817 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,818 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,818 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,819 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,819 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,819 - INFO - 
+============================================================
+2025-11-08 10:11:44,819 - INFO - Generation 18/20
+2025-11-08 10:11:44,819 - INFO - ============================================================
+2025-11-08 10:11:44,819 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,820 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,820 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,820 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,820 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,820 - INFO - 
+============================================================
+2025-11-08 10:11:44,820 - INFO - Generation 19/20
+2025-11-08 10:11:44,820 - INFO - ============================================================
+2025-11-08 10:11:44,820 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,821 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,821 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,822 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,822 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,822 - INFO - 
+============================================================
+2025-11-08 10:11:44,822 - INFO - Generation 20/20
+2025-11-08 10:11:44,822 - INFO - ============================================================
+2025-11-08 10:11:44,822 - INFO - Phase 1: Neural network generation
+2025-11-08 10:11:44,823 - ERROR - Error evaluating design 0: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,823 - ERROR - Error evaluating design 1: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,823 - ERROR - Error evaluating design 2: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,823 - ERROR - Error evaluating design 3: trimesh.creation.revolve() got multiple values for keyword argument 'sections'
+2025-11-08 10:11:44,823 - INFO - 
+Top 5 designs:
+2025-11-08 10:11:44,823 - INFO - 
+============================================================
+2025-11-08 10:11:44,823 - INFO - Training completed!
+2025-11-08 10:11:44,823 - INFO - Best score achieved: 0.000
+2025-11-08 10:11:44,824 - INFO - ============================================================
