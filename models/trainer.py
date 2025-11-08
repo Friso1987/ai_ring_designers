@@ -453,21 +453,21 @@ class HybridTrainer:
         designs_dir = Path('data/designs/best')
         designs_dir.mkdir(parents=True, exist_ok=True)
         
-        # Save parameters
+        # Save parameters (convert numpy types to native Python types for JSON)
         params_path = designs_dir / f'best_gen_{self.generation}.json'
         with open(params_path, 'w') as f:
             json.dump({
-                'generation': self.generation,
-                'score': self.best_score,
+                'generation': int(self.generation),
+                'score': float(self.best_score),
                 'parameters': {
-                    'num_main_veins': self.best_design.num_main_veins,
-                    'vein_thickness': self.best_design.vein_thickness,
-                    'lateral_wander': self.best_design.lateral_wander,
-                    'radial_wander': self.best_design.radial_wander,
-                    'height_layers': self.best_design.height_layers,
-                    'layer_twist_factor': self.best_design.layer_twist_factor,
-                    'branch_probability': self.best_design.branch_probability,
-                    'node_density': self.best_design.node_density,
+                    'num_main_veins': int(self.best_design.num_main_veins),
+                    'vein_thickness': float(self.best_design.vein_thickness),
+                    'lateral_wander': float(self.best_design.lateral_wander),
+                    'radial_wander': float(self.best_design.radial_wander),
+                    'height_layers': int(self.best_design.height_layers),
+                    'layer_twist_factor': float(self.best_design.layer_twist_factor),
+                    'branch_probability': float(self.best_design.branch_probability),
+                    'node_density': float(self.best_design.node_density),
                 }
             }, f, indent=2)
         
