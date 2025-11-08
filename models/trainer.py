@@ -352,8 +352,8 @@ class HybridTrainer:
                         mesh = self.renderer.render_to_mesh(scad_code)
                         metrics = self.evaluator.evaluate(mesh, params)
                         self.buffer.add(params, metrics)
-                        
-                        params_tensor = torch.tensor(params.to_vector()).to(self.device)
+
+                        params_tensor = torch.tensor(params.to_vector(), dtype=torch.float32).to(self.device)
                         evo_results.append((params, metrics, params_tensor))
                         
                     except Exception as e:
